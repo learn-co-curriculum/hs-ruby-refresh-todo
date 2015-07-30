@@ -1,9 +1,4 @@
----
-tags: todo
-language: ruby
-level: 2
-type: todo
----
+
 
 ## All of the Goats
 
