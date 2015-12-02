@@ -26,3 +26,4 @@
 Now create an instance of `Goat`, poke it until it gets moody, feed it and milk it. Add any other additional methods you want!
 
 <img src="http://38.media.tumblr.com/54c093f431e15c5a9053c8efe4c93124/tumblr_n61p6nOUXO1r33ieuo1_250.gif">
+<a href='https://learn.co/lessons/hs-ruby-refresh-todo' data-visibility='hidden'>View this lesson on Learn.co</a>
